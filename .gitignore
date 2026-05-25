@@ -1,0 +1,5 @@
+.vscode/
+
+# Custom file for testing
+build_and_copy.sh
+client.py
